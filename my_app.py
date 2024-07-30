@@ -1,6 +1,6 @@
 import streamlit as st  # pip install streamlit
 import pandas as pd
-import home, account, loginfb, signupfb, pwreset, contact
+import home, loginfb, signupfb, pwreset, contact
 
 from modules import calculationSheet, report
 from pathlib import Path
